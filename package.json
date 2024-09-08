@@ -1,0 +1,11 @@
+{
+  "name": "effective-typescript",
+  "version": "1.0.0",
+  "description": "effective-typescript practice repository",
+  "devDependencies": {
+    "@wonse/eslint-plugin": "^1.0.7",
+    "eslint": "8",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
